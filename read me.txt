@@ -1,0 +1,17 @@
+to start this project development, you need to check below php files in hierarchy.
+1. index.php
+2. template.php
+follow link location.
+do not delete system files.
+such as index.html, cb_rb_sprite.svg, .htaccess, db.php, config.php
+
+NOTE: do not use .php extension on <a href="index.php"></a>
+use this instead <a href="index"></a>
+
+links:
+https://www.vian.ai/
+https://www.altaml.com/
+
+https://www.google.com/search?q=soft+choice&rlz=1C1UEAD_enCA980CA981&tbm=isch&sxsrf=AOaemvLuvtSEzFotqRQkXR9jsqwqKo5fdA:1641889497788&source=lnms&sa=X&ved=0ahUKEwio7ZmCo6n1AhUPXM0KHbcLBx0Q_AUI9gkoAQ&biw=1920&bih=947&dpr=1
+
+https://www.google.com/search?q=orange+theory&rlz=1C1UEAD_enCA980CA981&sxsrf=AOaemvJzd2NGQ2ZG1qx-0w-OYbSLCJHTJw:1641889545685&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWy4WZo6n1AhXPG80KHfxYBBYQ_AUoA3oECAIQBQ&biw=1920&bih=947&dpr=1
