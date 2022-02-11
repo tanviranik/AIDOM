@@ -3,8 +3,8 @@
     <div id="section-network-intro" class="section-net-pad no-gutters intro-container img-networking">
         <div class="col-xs-8 margin-auto">
             <div class="section">
-                <p class="col-xs-10 text-quote text-white">"Partnering with AltaML where it allows both organizations to learn, grow and adapt together is crucial as we recognize that technology and the transformative power of digitization in the health and life sciences sector is ever increasing at a rapid rate."</p>
-                <p class="col-xs-10 quote-author text-white">Md. Tanvir Alam - Phd, Albarta</p>
+                <p class="col-xs-10 text-quote text-white">"Machine intelligence is the last invention that humanity will ever need to make."</p>
+                <p class="col-xs-10 quote-author text-white"> - Nick Bostrom</p>
             </div>
         </div>
     </div>

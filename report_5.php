@@ -2,14 +2,9 @@
 <div id="content">
     <div id="section-report-details" class="section">
         <div class="col-xs-11 margin-auto" style="padding-bottom: 80px;">
-            <div class="section-content">
-                <div class="box-header col-xs-11 margin-auto">                    
-                    <div class="box-title">
-                        <h1 class="display-4 text-black align-center">Report 5</h1>
-                    </div>
-                </div>
+            <div class="section-content">                
                 <div class="box-body">
-                    <iframe id="myFrame" title="IdeaScaleReport - Report" width="720" height="375" src="https://app.powerbi.com/view?r=eyJrIjoiNDI5NzNmOTEtODQ3YS00MTAwLWFlYTctZmE4NTkzZWU1NzJmIiwidCI6ImFhZjQ0NTZjLTgxZjQtNGI4NS1hMmEwLTc5ZGYyNGFhYmFmZiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                <iframe title="Cancer-Analytics-ENY" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWNiOGFlYTctYjE5OC00MjA1LWI2Y2ItMjQ1NjYwY2Q3MTRlIiwidCI6ImFhZjQ0NTZjLTgxZjQtNGI4NS1hMmEwLTc5ZGYyNGFhYmFmZiIsImMiOjEwfQ%3D%3D&pageName=ReportSectiond1bc87bbb3e97bed6225" frameborder="0" allowFullScreen="true" style="overflow:hidden;min-height:740px;height:100%;width:100%" height="100%" width="100%"></iframe>
                 </div>
             </div>            
         </div>
